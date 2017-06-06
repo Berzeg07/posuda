@@ -31,7 +31,36 @@ $(document).ready(function(){
 	});
 	// Конец Мобильное меню
 
-	
+       /* Slider
+       =====================*/
+       var owl2 = $("#slider__actual");
+       owl2.owlCarousel({
+        loop:true,
+        nav:true, 
+        autoplay:false,
+        smartSpeed:1000,
+        margin:25,
+        center:false,     //если нужны обрезаные края
+        navText:['<span class="nav-left"></span>','<span class="nav-right"></span>'],
+        responsive:{
+            0:{
+                items:3
+            },
+            320:{
+                items:3
+            },
+            480:{
+                items:4 
+            },
+            768:{
+                items:6
+            }, 
+            1240:{
+                items:10
+            },      
+        }
+    });
+
 
     // Fancybox
     $("a[rel=group]").fancybox({

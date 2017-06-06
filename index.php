@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/style-block.css">
 	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="libs/owl.carousel/assets/owl.carousel.css" />
 	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
 	
 </head>
@@ -80,11 +81,131 @@
 		</div>
 
 		<div class="header-slider">
-			<span>На  природе <br/>вкуснее!</span>
-			<span>
+			<span class="header-title">На  природе <br/>вкуснее!</span><br/>
+			<span class="header-slogan">
 				товары для пикника<br/>
 				оптом от производителя
 			</span>
+
+			<div class="slider-wrap">
+				<div class="slider-container">
+					<div id="slider__actual">
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p1.png" alt="">
+								</div>
+								<p>
+									Хозяйственные товары
+								</p>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p2.png" alt="">
+								</div>
+								<p>
+									Бумажно-гигиеническая продукция
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p3.png" alt="">
+								</div>
+								<p>
+									Бумажная продукция
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p4.png" alt="">
+								</div>
+								<p>
+									Профессиональная химия
+								</p>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p5.png" alt="">
+								</div>
+								<p>
+									Бумага и чековая лента
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p6.png" alt="">
+								</div>
+								<p>
+									Пленка упаковочная
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p7.png" alt="">
+								</div>
+								<p>
+									Одноразовая посуда
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p8.png" alt="">
+								</div>
+								<p>
+									Пакеты
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p9.png" alt="">
+								</div>
+								<p>
+									Одноразовая упаковка
+								</p>
+							</div>
+						</div>	
+
+						<div class="item">
+							<div class="item-box">
+								<div class="item-box-img">
+									<img src="img/p10.png" alt="">
+								</div>
+								<p>
+									Бытовая химия
+								</p>
+							</div>
+						</div>								
+
+					</div>
+				</div>
+				<div class="slider-line"></div>
+			</div>
+
 		</div>
 
 	</div>
