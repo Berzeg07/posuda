@@ -142,19 +142,19 @@
 
 .catalog__content {
   margin-bottom: 25px;
-  text-align: center; }
+  text-align: center;
+  padding-left: 3px; }
   @media only screen and (min-width: 1200px) {
     .catalog__content {
       margin-bottom: 65px;
-      text-align: left;
-      padding-left: 3px; } }
+      text-align: left; } }
   .catalog__content .cart {
     display: inline-block;
     background: #fff;
     text-align: left;
     margin-right: 4px;
     margin-bottom: 4px; }
-    @media only screen and (min-width: 990px) {
+    @media only screen and (min-width: 1200px) {
       .catalog__content .cart {
         float: left; } }
   @media only screen and (min-width: 1200px) {

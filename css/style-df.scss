@@ -162,10 +162,11 @@
 .catalog__content{
 	margin-bottom: 25px;
 	text-align: center;
+	padding-left: 3px;
 	@media only screen and (min-width : 1200px) {
 		margin-bottom: 65px;
 		text-align: left;
-		padding-left: 3px;
+		
 	}
 	.cart{
 		display: inline-block;
@@ -173,7 +174,7 @@
 		text-align: left;
 		margin-right:4px;
 		margin-bottom: 4px;
-		@media only screen and (min-width : 990px) {
+		@media only screen and (min-width : 1200px) {
 			float: left;			
 		}
 	}
