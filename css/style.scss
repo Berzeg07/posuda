@@ -602,7 +602,7 @@ span{
     padding: 15px 6px 21px;
     font-family: "Lato-Light";
     @media only screen and (min-width: 400px) {
-        padding: 9px 14px;
+        padding: 9px 14px 24px;
     }
 }
 .special__top{
@@ -815,5 +815,142 @@ span{
     .cart{
         display: inline-block;
         margin-bottom: 4px;
+    }
+    &__left{
+        @media only screen and (min-width: 1240px) {
+            float: left;
+            width: 60%;
+        }
+    }
+    &__right{
+        @media only screen and (min-width: 1240px) {
+            float: right;
+            width: 40%;
+        }
+    }
+}
+
+/* Новинки
+==========================*/
+.news-mag{
+    h2{
+        padding-top: 55px;
+        padding-bottom: 48px;
+    }
+}
+.slider-news__wrap{
+    max-width: 933px;
+    margin: 0 auto;
+}
+#slider__news{
+    .item{
+        .cart{
+            margin: 0 auto;
+            border:3px solid #FF3340;
+        }
+    }
+    .nav-left2{
+        background: url(../img/left.png) no-repeat;
+        width: 14px;
+        height: 24px;
+        position:absolute;
+        top:50%;
+        left:0px;
+        transform: translateY(-50%);
+        @media only screen and (min-width: 768px) {
+            left: -15px;
+        }
+        @media only screen and (min-width: 1240px) {
+            left:-117px;
+        }
+    }
+    .nav-right2{
+        background: url(../img/right.png) no-repeat;
+        width: 14px;
+        height: 24px;
+        position:absolute;
+        top:50%;
+        right:0px;
+        transform: translateY(-50%);
+        @media only screen and (min-width: 768px) {
+            right: -15px;
+        }
+        @media only screen and (min-width: 1240px) {
+            right: -117px;
+        }
+    }
+}
+
+#slider__actions{
+    .item{
+        .cart{
+            margin: 0 auto;
+            border:3px solid #FF3340;
+        }
+    }
+    .nav-left3{
+        background: url(../img/left.png) no-repeat;
+        width: 14px;
+        height: 24px;
+        position:absolute;
+        top:50%;
+        left:0px;
+        transform: translateY(-50%);
+        @media only screen and (min-width: 768px) {
+            left: -15px;
+        }
+        @media only screen and (min-width: 1240px) {
+            left:-117px;
+        }
+    }
+    .nav-right3{
+        background: url(../img/right.png) no-repeat;
+        width: 14px;
+        height: 24px;
+        position:absolute;
+        top:50%;
+        right:0px;
+        transform: translateY(-50%);
+        @media only screen and (min-width: 768px) {
+            right: -15px;
+        }
+        @media only screen and (min-width: 1240px) {
+            right: -117px;
+        }
+    }
+}
+
+/* biznes
+=======================*/
+.biznes-box{
+    margin-bottom: 28px;
+    position: relative;
+    img{
+        width: 100%;
+        z-index: 10;
+    }
+    &:after{
+        position: absolute;
+        top:0;
+        left:0;
+        right: 0;
+        bottom: 0;
+        content: "";
+        width: 100%;
+        height: 100%;
+        background:rgba(black, 0.5);
+        z-index: 100;
+    }
+    &__txt{
+        position: absolute;
+        top:50%;
+        left:50%;
+        transform: translateX(-50%);
+        z-index: 9999;
+        span{
+            color:#fff;
+            font-size: 33px;
+            font-family: "MyriadPro-Light";
+        }
     }
 }

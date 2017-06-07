@@ -296,7 +296,7 @@
 		</div>
 
 		<div class="popular__left">
-		
+
 			<div class="cart">
 				<div class="cart__img">
 					<img src="img/posuda.jpg" alt="">
@@ -437,9 +437,443 @@
 			</div>
 
 		</div><!-- end popular left -->
+
+		<div class="popular__right">
+			
+			<div class="special">
+				<div class="special__top special__top_left">
+					<span>Спецпредложения</span>
+				</div>
+				<div class="special__top special__top_right">
+					<a href="#">Показать все ></a>
+				</div>
+				<div class="special__img">
+					<img class="img-responsive" src="img/special.jpg" alt="">
+				</div>
+
+				<div class="special__middle">
+					<span class="sp-middle">Бумажные горшки для рассады 6 ячеек, цвет в ассортименте, 5шт/упак</span>
+					<p> Артикул: 520010<br/>
+						Количество в упаковке: 5 шт./уп.<br/>
+						Количество в коробке: 10 уп/кор
+					</p>
+
+
+					<div class="special__middle_left">
+						<span>23 руб.</span>
+					</div>
+					<div class="special__middle_right">
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+					<div class="clear"></div>	
+
+					<div class="special__middle_left2">
+						<span>за упаковку (кол-во кратно<br/> упаковке)</span>
+					</div>
+					<div class="special__middle_right2">
+						<a class="but but_2" href="#">Купить</a>
+					</div>
+					<div class="clear"></div>
+
+					<div class="special__bottom">
+						<div class="dd-times__txt">
+							<span>До конца<br/> акции:</span>
+						</div>
+						<div class="dd-times">
+
+
+							<div class="dd-div no-margin">
+								<div class="line-timer"></div>
+								<span id="dd-days">12</span>
+								<div class="kr"></div>
+							</div>
+							<div class="dd-div">
+								<div class="line-timer"></div>
+								<span id="dd-hours">12</span>
+								<div class="kr"></div>
+							</div>
+							<div class="dd-div">
+								<div class="line-timer"></div>
+								<span id="dd-min">17</span>
+								<div class="kr"></div>
+							</div>
+							<div class="dd-div">
+								<div class="line-timer"></div>
+								<span id="dd-sec">14</span>
+							</div>
+							<div class="clear"></div>
+
+							<div class="dd-time-txt">
+								<span>дней</span>
+							</div>
+							<div class="dd-time-txt dd-time-txt1">
+								<span>час</span>
+							</div>
+							<div class="dd-time-txt dd-time-txt2">
+								<span>минут</span>
+							</div>
+							<div class="dd-time-txt dd-time-txt3">
+								<span>секунд</span>
+							</div>
+							<div class="clear"></div>
+
+						</div>
+						<div class="clearfix"></div>
+					</div>
+
+				</div>
+			</div><!-- Special end -->
+
+		</div><!-- end popular right -->
+		<div class="clear"></div>
 	</div><!-- end popular -->
 
-</div>
+	<div class="news-mag">
+		<h2>Новинки</h2>
+		<div class="slider-news__wrap">
+			<div id="slider__news">
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+
+
+			</div><!-- slider -->
+		</div><!-- slider wrap -->
+	</div><!-- news -->
+
+	<div class="news-mag">
+		<h2>Акции</h2>
+		<div class="slider-news__wrap">
+			<div id="slider__actions">
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">-</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">+</span>
+						</div>
+					</div>
+				</div>	
+
+
+
+
+			</div><!-- slider -->
+		</div><!-- slider wrap -->
+	</div><!-- actions -->
+
+
+	<div class="biznes">
+		<h2>Предложения для бизнеса</h2>
+		<div class="row">
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
+				<a href="#">
+					<div class="biznes-box">
+						<img class="img-responsive" src="img/b1.jpg" alt="">
+						<div class="biznes-box__txt">
+							<span>Бизнес</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
+				<a href="#">
+					<div class="biznes-box">
+						<img class="img-responsive" src="img/b2.jpg" alt="">
+						<div class="biznes-box__txt">
+							<span>Для дома</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="clearfix"></div>
+
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
+				<a href="#">
+					<div class="biznes-box">
+						<img class="img-responsive" src="img/b3.jpg" alt="">
+						<div class="biznes-box__txt">
+							<span>Кейтеринг</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
+				<a href="#">
+					<div class="biznes-box">
+						<img class="img-responsive" src="img/b4.jpg" alt="">
+						<div class="biznes-box__txt">
+							<span>Кафе и рестораны</span>
+						</div>
+					</div>
+				</a>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+	</div><!-- biznes -->
+</div><!-- container -->
 
 
 <?php require_once('includes/footer.php'); ?>

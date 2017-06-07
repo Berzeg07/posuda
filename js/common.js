@@ -63,31 +63,31 @@ $(document).ready(function(){
 
        /* Timer 
        =======================*/ 
-        var count = 8;
-        var minutes = 1;
-        var hours = 2;
-        
-        var end = 0;
-        
-        if (count < 10) {
-            $("#dd-sec").html('0'+count);
-        }
-        else {
-            $("#dd-sec").html(count);
-        }
-        if (minutes < 10) {
-            $("#dd-min").html('0'+minutes);
-        }
-        else {
-            $("#dd-min").html(minutes);
-        }
-        if (hours < 10) {
-            $("#dd-hours").html('0'+hours);
-        }
-        else {
-            $("#dd-hours").html(hours);
-        }
-        
+       var count = 8;
+       var minutes = 1;
+       var hours = 2;
+
+       var end = 0;
+
+       if (count < 10) {
+        $("#dd-sec").html('0'+count);
+    }
+    else {
+        $("#dd-sec").html(count);
+    }
+    if (minutes < 10) {
+        $("#dd-min").html('0'+minutes);
+    }
+    else {
+        $("#dd-min").html(minutes);
+    }
+    if (hours < 10) {
+        $("#dd-hours").html('0'+hours);
+    }
+    else {
+        $("#dd-hours").html(hours);
+    }
+
     var counter=setInterval(timer, 1000); //1000 will  run it every 1 second
 
     function timer()
@@ -115,7 +115,7 @@ $(document).ready(function(){
                     $("#dd-hours").html('0'+hours);
                 }
                 if (hours < 0 ) {
-                    
+
                     end = 1;
                     clearTimeout(counter);
                 }
@@ -126,9 +126,9 @@ $(document).ready(function(){
                 $("#dd-min").html(minutes);
             }
             if (end) { count = '00';}
-                else {
-                    count = 59;
-                }
+            else {
+                count = 59;
+            }
             
             $("#dd-sec").html(count);
         }
@@ -136,6 +136,57 @@ $(document).ready(function(){
        /* End Timer
        ======================*/
 
+       // slider news
+        var owl2 = $("#slider__news");
+       owl2.owlCarousel({
+        loop:true,
+        nav:true, 
+        autoplay:false,
+        smartSpeed:1000,
+        margin: 0,
+        center:false,     //если нужны обрезаные края
+        navText:['<span class="nav-left2"></span>','<span class="nav-right2"></span>'],
+        responsive:{
+            0:{
+                items:1
+            },
+            320:{
+                items:1
+            },
+            768:{
+                items:3
+            },   
+             992:{
+                items:4
+            },    
+        }
+    });
+
+              // slider news
+        var owl2 = $("#slider__actions");
+       owl2.owlCarousel({
+        loop:true,
+        nav:true, 
+        autoplay:false,
+        smartSpeed:1000,
+        margin: 0,
+        center:false,     //если нужны обрезаные края
+        navText:['<span class="nav-left3"></span>','<span class="nav-right3"></span>'],
+        responsive:{
+            0:{
+                items:1
+            },
+            320:{
+                items:1
+            },
+            768:{
+                items:3
+            },   
+             992:{
+                items:4
+            },    
+        }
+    });
 
 
     // Fancybox
