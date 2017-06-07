@@ -681,6 +681,7 @@ span {
     padding-top: 62px;
     padding-bottom: 52px; }
   .popular .cart {
-    display: inline-block; }
+    display: inline-block;
+    margin-bottom: 4px; }
 
 /*# sourceMappingURL=style.css.map */
