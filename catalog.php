@@ -148,6 +148,21 @@
 
 </div>
 
+<div class="filter">
+	<div class="filter__onpage">
+		<span>Товаров на странице:</span>
+		<a href="#">10</a>
+		<a href="#">20</a>
+		<a href="#">30</a>
+	</div>
+	<div class="filter__sort">
+		<span>Отсортировать по:</span>
+	</div>
+
+	
+</div>
+
+
 <div class="pagination">
 			<div class="pagination__box">
 				<a href="#">Следующая</a>
