@@ -1,6 +1,6 @@
 <?php require_once('includes/header.php'); ?>
 
-<div class="header-slider">
+<div class="header-slider catalogimg">
 	<span class="header-title">На  природе <br/>вкуснее!</span><br/>
 	<span class="header-slogan">
 		товары для пикника<br/>
@@ -148,32 +148,24 @@
 
 </div>
 
-</div>
-
-<div class="about-company__wrap">
-	<div class="container">
-		<div class="row">
-			<h2>О компании</h2>
-			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-				<div class="about-company">
-					<img class="img-responsive" src="img/about.jpg" alt="">
-				</div>
+<div class="pagination">
+			<div class="pagination__box">
+				<a href="#">Следующая</a>
 			</div>
-			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-				<div class="about-company about-company__right">
-				<p>Торговая Компания «Паритет» с 2003 года осуществляет свою<br/> деятельность на рынке  расходных материалов и упаковки.
-					</p>
-					<p>
-						Мы работаем с ведущими производителями пластиковой<br/> продукции и упаковки.<br/>
-						Нашими клиентами являются кафе, рестораны, магазины, клининговые  компании, а также компании занимающиеся<br/> доставкой обедов.<br/>
-						- Одноразовая посуда: стаканы, чашки, тарелки, вилки, ложки, ножи, контейнеры, лотки 
-					</p>
-					<a class="but but_1 but_1__padding" href="#">Подробнее</a>
-				</div>
+			<div class="pagination__box">
+				<a class="pag-active" href="#">1</a>
+				<a href="#">2</a>
+				<a href="#">3</a>
+				<a href="#">4</a>
+				<span>...</span>
+				<a href="#">18</a>
+			</div>
+			<div class="pagination__box">
+				<a href="#">Предыдущая</a>
 			</div>
 		</div>
-	</div>
-</div>
+
+
 
 
 <?php require_once('includes/footer.php'); ?>
