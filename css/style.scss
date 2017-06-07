@@ -803,3 +803,16 @@ span{
         display: block;
     }
 }
+
+/* Популярное
+========================*/
+.popular{
+    text-align: center;
+    h2{
+        padding-top: 62px;
+        padding-bottom: 52px;
+    }
+    .cart{
+        display: inline-block;
+    }
+}

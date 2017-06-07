@@ -673,4 +673,14 @@ span {
     .kr {
       display: block; } }
 
+/* ╨Я╨╛╨┐╤Г╨╗╤П╤А╨╜╨╛╨╡
+========================*/
+.popular {
+  text-align: center; }
+  .popular h2 {
+    padding-top: 62px;
+    padding-bottom: 52px; }
+  .popular .cart {
+    display: inline-block; }
+
 /*# sourceMappingURL=style.css.map */

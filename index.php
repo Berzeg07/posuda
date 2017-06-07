@@ -161,7 +161,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 				<div class="about-company about-company__right">
-				<p>Торговая Компания «Паритет» с 2003 года осуществляет свою<br/> деятельность на рынке  расходных материалов и упаковки.
+					<p>Торговая Компания «Паритет» с 2003 года осуществляет свою<br/> деятельность на рынке  расходных материалов и упаковки.
 					</p>
 					<p>
 						Мы работаем с ведущими производителями пластиковой<br/> продукции и упаковки.<br/>
@@ -173,6 +173,129 @@
 			</div>
 		</div>
 	</div>
+</div>
+
+<div class="container">
+
+	<div class="popular">
+		<h2>Популярные товары</h2>
+		<div class="cart">
+			<div class="cart__img">
+				<img src="img/posuda.jpg" alt="">
+			</div>
+			<div class="cart__txt">
+				<span>Артикул: 99154</span>
+				<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+			</div>
+			<div class="cart__but">
+				<div class="cart__but_1">
+					<span >50.4</span>
+				</div>
+				<div class="cart__but_2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="switch__number text-align__center">
+				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
+			</div>
+		</div>
+		<div class="cart">
+			<div class="cart__img">
+				<img src="img/posuda.jpg" alt="">
+			</div>
+			<div class="cart__txt">
+				<span>Артикул: 99154</span>
+				<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+			</div>
+			<div class="cart__but">
+				<div class="cart__but_1">
+					<span >50.4</span>
+				</div>
+				<div class="cart__but_2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="switch__number text-align__center">
+				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
+			</div>
+		</div>
+		<div class="cart">
+			<div class="cart__img">
+				<img src="img/posuda.jpg" alt="">
+			</div>
+			<div class="cart__txt">
+				<span>Артикул: 99154</span>
+				<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+			</div>
+			<div class="cart__but">
+				<div class="cart__but_1">
+					<span >50.4</span>
+				</div>
+				<div class="cart__but_2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="switch__number text-align__center">
+				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
+			</div>
+		</div>
+		<div class="cart">
+			<div class="cart__img">
+				<img src="img/posuda.jpg" alt="">
+			</div>
+			<div class="cart__txt">
+				<span>Артикул: 99154</span>
+				<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+			</div>
+			<div class="cart__but">
+				<div class="cart__but_1">
+					<span >50.4</span>
+				</div>
+				<div class="cart__but_2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="switch__number text-align__center">
+				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
+			</div>
+		</div>
+		<div class="cart">
+			<div class="cart__img">
+				<img src="img/posuda.jpg" alt="">
+			</div>
+			<div class="cart__txt">
+				<span>Артикул: 99154</span>
+				<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+			</div>
+			<div class="cart__but">
+				<div class="cart__but_1">
+					<span >50.4</span>
+				</div>
+				<div class="cart__but_2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="switch__number text-align__center">
+				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
+			</div>
+		</div>
+	</div><!-- end popular -->
+
 </div>
 
 
