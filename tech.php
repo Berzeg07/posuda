@@ -89,6 +89,7 @@
 
 		<br>
 		<br>
+
 		<!-- Карточка товара -->
 		<div class="cart">
 			<div class="cart__img">
@@ -113,6 +114,100 @@
 				<span class="switch-button">+</span>
 			</div>
 		</div>
+
+		
+		<br>
+		<br>
+
+		<!-- спец предложения -->
+		<div class="special">
+			<div class="special__top special__top_left">
+				<span>Спецпредложения</span>
+			</div>
+			<div class="special__top special__top_right">
+				<a href="#">Показать все ></a>
+			</div>
+			<div class="special__img">
+				<img class="img-responsive" src="img/special.jpg" alt="">
+			</div>
+
+			<div class="special__middle">
+				<span class="sp-middle">Бумажные горшки для рассады 6 ячеек, цвет в ассортименте, 5шт/упак</span>
+				<p> Артикул: 520010<br/>
+					Количество в упаковке: 5 шт./уп.<br/>
+					Количество в коробке: 10 уп/кор
+				</p>
+
+
+				<div class="special__middle_left">
+					<span>23 руб.</span>
+				</div>
+				<div class="special__middle_right">
+					<div class="switch__number text-align__center">
+						<span class="switch-button">-</span>
+						<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+						<span class="switch-button">+</span>
+					</div>
+				</div>
+				<div class="clear"></div>	
+
+				<div class="special__middle_left2">
+					<span>за упаковку (кол-во кратно<br/> упаковке)</span>
+				</div>
+				<div class="special__middle_right2">
+					<a class="but but_2" href="#">Купить</a>
+				</div>
+				<div class="clear"></div>
+
+				<div class="special__bottom">
+						<div class="dd-times__txt">
+							<span>До конца<br/> акции:</span>
+						</div>
+					<div class="dd-times">
+					
+
+						<div class="dd-div no-margin">
+							<div class="line-timer"></div>
+							<span id="dd-days">12</span>
+							<div class="kr"></div>
+						</div>
+						<div class="dd-div">
+							<div class="line-timer"></div>
+							<span id="dd-hours">12</span>
+							<div class="kr"></div>
+						</div>
+						<div class="dd-div">
+							<div class="line-timer"></div>
+							<span id="dd-min">17</span>
+							<div class="kr"></div>
+						</div>
+						<div class="dd-div">
+							<div class="line-timer"></div>
+							<span id="dd-sec">14</span>
+						</div>
+						<div class="clear"></div>
+
+						<div class="dd-time-txt">
+							<span>дней</span>
+						</div>
+						<div class="dd-time-txt dd-time-txt1">
+							<span>час</span>
+						</div>
+						<div class="dd-time-txt dd-time-txt2">
+							<span>минут</span>
+						</div>
+						<div class="dd-time-txt dd-time-txt3">
+							<span>секунд</span>
+						</div>
+						<div class="clear"></div>
+
+					</div>
+					<div class="clearfix"></div>
+				</div>
+
+			</div>
+		</div><!-- Special end -->
+
 
 	</div>
 

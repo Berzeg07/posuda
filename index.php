@@ -1,232 +1,179 @@
-<!doctype html>
-<html lang="ru">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-	<title>Главная</title>
+<?php require_once('includes/header.php'); ?>
 
-	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
-	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/style-block.css">
-	<link rel="stylesheet" href="css/fonts.css">
-	<link rel="stylesheet" href="libs/owl.carousel/assets/owl.carousel.css" />
-	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
-	
-</head>
-<body>
+<div class="header-slider">
+	<span class="header-title">На  природе <br/>вкуснее!</span><br/>
+	<span class="header-slogan">
+		товары для пикника<br/>
+		оптом от производителя
+	</span>
 
+	<div class="slider-wrap">
+		<div class="slider-container">
+			<div id="slider__actual">
 
-
-	<div class="header-top">
-		<div class="bars">
-			<i class="fa fa-bars" aria-hidden="true"></i>
-		</div>
-		<div class="container-menu">
-			<div class="main-menu">
-				<ul>
-					<li><a class="menu-item" href="#">Каталог</a></li>
-					<li><a class="menu-item" href="#">Оплата</a></li>
-					<li><a class="menu-item" href="#">Доставка</a></li>
-					<li><a class="menu-item" href="#">Клиентам</a></li>
-					<li><a class="menu-item" href="#">О компании</a></li>
-					<li><a class="menu-item" href="#">Доставка</a></li>
-					<li><a class="enter" href="#">Войти</a> <span class="rice">|</span> <a href="#">Регистрация</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>	
-	
-	<div class="container">
-		<div class="header-bottom">
-			<div class="header-bottom__box">
-				<img src="img/logo.jpg" alt="">
-			</div>
-			<div class="header-bottom__box">
-				<p>Расходные материалы, упаковочная продукция, одноразовая посуда, хозяйственные товары, полиэтиленовые 
-				</p>
-			</div>
-			<div class="header-bottom__box">
-				<p>Режим работы: <br/>
-					пн-пт, с 9:00 до 18:00
-				</p>
-			</div>
-			<div class="header-bottom__box">
-				<span>+7(495)955-94-61</span><br/>
-				<span>+7(495)955-92-39</span><br/>
-				<span>E-mail: info@mosparitet.ru</span>
-			</div>
-			<div class="header-bottom__box">
-				<div class="header-bottom__box_inner">
-					<div class="header-bottom__box_inner1">
-						<img src="img/basket.png" alt="">
-					</div>
-					<div class="header-bottom__box_inner1">
-						<span>Ваша корзина</span><br/>
-						<span>Выбрано товаров: 0</span><br/>
-						<span>На сумму: 0 р</span>
-					</div>
-					<div class="clear"></div>
-				</div>
-			</div>
-		</div>
-
-		<div class="poisk-wrap">
-			<form action="#">
-				<input type="text" placeholder="Поиск по сайту">
-				<label class="poisk-button">
-					<input type="submit" value="">
-				</label>
-			</form>
-		</div>
-
-		<div class="header-slider">
-			<span class="header-title">На  природе <br/>вкуснее!</span><br/>
-			<span class="header-slogan">
-				товары для пикника<br/>
-				оптом от производителя
-			</span>
-
-			<div class="slider-wrap">
-				<div class="slider-container">
-					<div id="slider__actual">
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p1.png" alt="">
-								</div>
-								<p>
-									Хозяйственные товары
-								</p>
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p1.png" alt="">
 							</div>
-						</div>
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p2.png" alt="">
-								</div>
-								<p>
-									Бумажно-гигиеническая продукция
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p3.png" alt="">
-								</div>
-								<p>
-									Бумажная продукция
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p4.png" alt="">
-								</div>
-								<p>
-									Профессиональная химия
-								</p>
-							</div>
-						</div>
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p5.png" alt="">
-								</div>
-								<p>
-									Бумага и чековая лента
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p6.png" alt="">
-								</div>
-								<p>
-									Пленка упаковочная
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p7.png" alt="">
-								</div>
-								<p>
-									Одноразовая посуда
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p8.png" alt="">
-								</div>
-								<p>
-									Пакеты
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p9.png" alt="">
-								</div>
-								<p>
-									Одноразовая упаковка
-								</p>
-							</div>
-						</div>	
-
-						<div class="item">
-							<div class="item-box">
-								<div class="item-box-img">
-									<img src="img/p10.png" alt="">
-								</div>
-								<p>
-									Бытовая химия
-								</p>
-							</div>
-						</div>								
-
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
 					</div>
 				</div>
-				<div class="slider-line"></div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p2.png" alt="">
+							</div>
+							<p>
+								Бумажно-гигиеническая продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p3.png" alt="">
+							</div>
+							<p>
+								Бумажная продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p4.png" alt="">
+							</div>
+							<p>
+								Профессиональная химия
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p5.png" alt="">
+							</div>
+							<p>
+								Бумага и чековая лента
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p6.png" alt="">
+							</div>
+							<p>
+								Пленка упаковочная
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p7.png" alt="">
+							</div>
+							<p>
+								Одноразовая посуда
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p8.png" alt="">
+							</div>
+							<p>
+								Пакеты
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p9.png" alt="">
+							</div>
+							<p>
+								Одноразовая упаковка
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p10.png" alt="">
+							</div>
+							<p>
+								Бытовая химия
+							</p>
+						</a>
+					</div>
+				</div>								
+
 			</div>
-
 		</div>
-
+		<div class="slider-line"></div>
 	</div>
 
+</div>
+
+</div>
+
+<div class="about-company__wrap">
+	<div class="container">
+		<div class="row">
+			<h2>О компании</h2>
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+				<div class="about-company">
+					<img class="img-responsive" src="img/about.jpg" alt="">
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+				<div class="about-company about-company__right">
+				<p>Торговая Компания «Паритет» с 2003 года осуществляет свою<br/> деятельность на рынке  расходных материалов и упаковки.
+					</p>
+					<p>
+						Мы работаем с ведущими производителями пластиковой<br/> продукции и упаковки.<br/>
+						Нашими клиентами являются кафе, рестораны, магазины, клининговые  компании, а также компании занимающиеся<br/> доставкой обедов.<br/>
+						- Одноразовая посуда: стаканы, чашки, тарелки, вилки, ложки, ножи, контейнеры, лотки 
+					</p>
+					<a class="but but_1 but_1__padding" href="#">Подробнее</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
 
 
-
-
-
-	<!-- JS_BLOCK -->
-	<script src="libs/jquery/jquery-1.11.1.min.js"></script>
-	<script src="libs/owl.carousel/owl.carousel.js"></script>
-	<script src="libs/fancybox/jquery.fancybox.pack.js"></script>
-	<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
-	<script src="js/responsiveTabs.js"></script>
-	<script src="js/jquery.maskedinput.min.js"></script>
-	<script src="js/fonts.js"></script>
-	<script src="js/common.js"></script>
-	<script src="js/swiper.min.js"></script>
-	<script src="js/jquery.cssslider.js"></script>
-	<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-</body>
-</html>
+<?php require_once('includes/footer.php'); ?>
