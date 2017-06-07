@@ -39,7 +39,7 @@ $(document).ready(function(){
         nav:true, 
         autoplay:false,
         smartSpeed:1000,
-        margin:25,
+        margin:10,
         center:false,     //если нужны обрезаные края
         navText:['<span class="nav-left"></span>','<span class="nav-right"></span>'],
         responsive:{

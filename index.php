@@ -24,6 +24,7 @@
 					</div>
 				</div>
 
+
 				<div class="item">
 					<div class="item-box">
 						<a href="#">
@@ -139,11 +140,349 @@
 							</p>
 						</a>
 					</div>
-				</div>								
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p1.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p2.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p3.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p5.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p1.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p2.png" alt="">
+							</div>
+							<p>
+								Бумажно-гигиеническая продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p3.png" alt="">
+							</div>
+							<p>
+								Бумажная продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p4.png" alt="">
+							</div>
+							<p>
+								Профессиональная химия
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p5.png" alt="">
+							</div>
+							<p>
+								Бумага и чековая лента
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p6.png" alt="">
+							</div>
+							<p>
+								Пленка упаковочная
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p7.png" alt="">
+							</div>
+							<p>
+								Одноразовая посуда
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p8.png" alt="">
+							</div>
+							<p>
+								Пакеты
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p9.png" alt="">
+							</div>
+							<p>
+								Одноразовая упаковка
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p10.png" alt="">
+							</div>
+							<p>
+								Бытовая химия
+							</p>
+						</a>
+					</div>
+				</div>
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p2.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p4.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p1.png" alt="">
+							</div>
+							<p>
+								Хозяйственные товары
+							</p>
+						</a>
+					</div>
+				</div>
+
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p2.png" alt="">
+							</div>
+							<p>
+								Бумажно-гигиеническая продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p3.png" alt="">
+							</div>
+							<p>
+								Бумажная продукция
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p4.png" alt="">
+							</div>
+							<p>
+								Профессиональная химия
+							</p>
+						</a>
+					</div>
+				</div>
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p5.png" alt="">
+							</div>
+							<p>
+								Бумага и чековая лента
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p6.png" alt="">
+							</div>
+							<p>
+								Пленка упаковочная
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p7.png" alt="">
+							</div>
+							<p>
+								Одноразовая посуда
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p8.png" alt="">
+							</div>
+							<p>
+								Пакеты
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p9.png" alt="">
+							</div>
+							<p>
+								Одноразовая упаковка
+							</p>
+						</a>
+					</div>
+				</div>	
+
+				<div class="item">
+					<div class="item-box">
+						<a href="#">
+							<div class="item-box-img">
+								<img src="img/p10.png" alt="">
+							</div>
+							<p>
+								Бытовая химия
+							</p>
+						</a>
+					</div>
+				</div>							
 
 			</div>
 		</div>
-		<div class="slider-line"></div>
+		<!-- <div class="slider-line"></div> -->
 	</div>
 
 </div>
@@ -179,6 +518,9 @@
 
 	<div class="popular">
 		<h2>Популярные товары</h2>
+		<div class="biznes-link">
+			<a href="#">Все товары ></a>
+		</div>
 		<div class="cart">
 			<div class="cart__img">
 				<img src="img/posuda.jpg" alt="">
@@ -197,9 +539,9 @@
 				<div class="clear"></div>
 			</div>
 			<div class="switch__number text-align__center">
-				<span class="switch-button">-</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
 			</div>
 		</div>
 		<div class="cart">
@@ -220,9 +562,9 @@
 				<div class="clear"></div>
 			</div>
 			<div class="switch__number text-align__center">
-				<span class="switch-button">-</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
 			</div>
 		</div>
 		<div class="cart">
@@ -243,9 +585,9 @@
 				<div class="clear"></div>
 			</div>
 			<div class="switch__number text-align__center">
-				<span class="switch-button">-</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
 			</div>
 		</div>
 		<div class="cart">
@@ -266,9 +608,9 @@
 				<div class="clear"></div>
 			</div>
 			<div class="switch__number text-align__center">
-				<span class="switch-button">-</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
 			</div>
 		</div>
 		<div class="cart">
@@ -289,9 +631,9 @@
 				<div class="clear"></div>
 			</div>
 			<div class="switch__number text-align__center">
-				<span class="switch-button">-</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
 			</div>
 		</div>
 
@@ -315,9 +657,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 			<div class="cart">
@@ -338,9 +680,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 			<div class="cart">
@@ -361,9 +703,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 			<div class="cart">
@@ -384,9 +726,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 			<div class="cart">
@@ -407,9 +749,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 			<div class="cart">
@@ -430,9 +772,9 @@
 					<div class="clear"></div>
 				</div>
 				<div class="switch__number text-align__center">
-					<span class="switch-button">-</span>
-					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 					<span class="switch-button">+</span>
+					<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+					<span class="switch-button">-</span>
 				</div>
 			</div>
 
@@ -464,9 +806,9 @@
 					</div>
 					<div class="special__middle_right">
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 					<div class="clear"></div>	
@@ -556,9 +898,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -582,36 +924,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
-						</div>
-					</div>
-				</div>	
-
-
-				<div class="item">
-					<div class="cart">
-						<div class="cart__img">
-							<img src="img/posuda.jpg" alt="">
-						</div>
-						<div class="cart__txt">
-							<span>Артикул: 99154</span>
-							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
-						</div>
-						<div class="cart__but">
-							<div class="cart__but_1">
-								<span >50.4</span>
-							</div>
-							<div class="cart__but_2">
-								<a class="but but_2" href="#">Купить</a>
-							</div>
-							<div class="clear"></div>
-						</div>
-						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
 							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
-							<span class="switch-button">+</span>
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -636,9 +951,36 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -664,9 +1006,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -702,9 +1044,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -728,36 +1070,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
-						</div>
-					</div>
-				</div>	
-
-
-				<div class="item">
-					<div class="cart">
-						<div class="cart__img">
-							<img src="img/posuda.jpg" alt="">
-						</div>
-						<div class="cart__txt">
-							<span>Артикул: 99154</span>
-							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
-						</div>
-						<div class="cart__but">
-							<div class="cart__but_1">
-								<span >50.4</span>
-							</div>
-							<div class="cart__but_2">
-								<a class="but but_2" href="#">Купить</a>
-							</div>
-							<div class="clear"></div>
-						</div>
-						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
 							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
-							<span class="switch-button">+</span>
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -782,9 +1097,36 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
+						</div>
+					</div>
+				</div>	
+
+
+				<div class="item">
+					<div class="cart">
+						<div class="cart__img">
+							<img src="img/posuda.jpg" alt="">
+						</div>
+						<div class="cart__txt">
+							<span>Артикул: 99154</span>
+							<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
+						</div>
+						<div class="cart__but">
+							<div class="cart__but_1">
+								<span >50.4</span>
+							</div>
+							<div class="cart__but_2">
+								<a class="but but_2" href="#">Купить</a>
+							</div>
+							<div class="clear"></div>
+						</div>
+						<div class="switch__number text-align__center">
+							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -810,9 +1152,9 @@
 							<div class="clear"></div>
 						</div>
 						<div class="switch__number text-align__center">
-							<span class="switch-button">-</span>
-							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 							<span class="switch-button">+</span>
+							<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+							<span class="switch-button">-</span>
 						</div>
 					</div>
 				</div>	
@@ -827,6 +1169,9 @@
 
 	<div class="biznes">
 		<h2>Предложения для бизнеса</h2>
+		<div class="biznes-link">
+			<a href="#">Посмотреть все ></a>
+		</div>
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
 				<a href="#">
