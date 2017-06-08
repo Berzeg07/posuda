@@ -13,10 +13,9 @@
 			<div id="slider__actual">
 
 				<div class="item">
-					<div class="item-box">
-						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p1.png" alt="">
+					<div class="item-box item-box__1">
+						<a class="item-box_1" href="#">
+							<div class="item-box-img item-box-img1">
 							</div>
 							<p>
 								Хозяйственные товары
@@ -26,10 +25,9 @@
 				</div>
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__2">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p2.png" alt="">
+							<div class="item-box-img item-box-img2">
 							</div>
 							<p>
 								Бумажно-гигиеническая продукция
@@ -39,10 +37,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__3">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p3.png" alt="">
+							<div class="item-box-img item-box-img3">
 							</div>
 							<p>
 								Бумажная продукция
@@ -52,10 +49,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__4">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p4.png" alt="">
+							<div class="item-box-img item-box-img4">
 							</div>
 							<p>
 								Профессиональная химия
@@ -65,10 +61,9 @@
 				</div>
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__5">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p5.png" alt="">
+							<div class="item-box-img item-box-img5">
 							</div>
 							<p>
 								Бумага и чековая лента
@@ -78,10 +73,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__6">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p6.png" alt="">
+							<div class="item-box-img item-box-img6">
 							</div>
 							<p>
 								Пленка упаковочная
@@ -91,10 +85,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
-						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p7.png" alt="">
+					<div class="item-box item-box__7">
+						<a href="#"> 
+							<div class="item-box-img item-box-img7">
 							</div>
 							<p>
 								Одноразовая посуда
@@ -104,10 +97,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__8">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p8.png" alt="">
+							<div class="item-box-img item-box-img8">
 							</div>
 							<p>
 								Пакеты
@@ -117,10 +109,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__9">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p9.png" alt="">
+							<div class="item-box-img item-box-img9">
 							</div>
 							<p>
 								Одноразовая упаковка
@@ -130,10 +121,9 @@
 				</div>	
 
 				<div class="item">
-					<div class="item-box">
+					<div class="item-box item-box__10">
 						<a href="#">
-							<div class="item-box-img">
-								<img src="img/p10.png" alt="">
+							<div class="item-box-img item-box-img10">
 							</div>
 							<p>
 								Бытовая химия
