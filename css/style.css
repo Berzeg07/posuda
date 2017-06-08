@@ -1046,6 +1046,9 @@ textarea {
     padding-bottom: 20px;
     padding-top: 19px; }
 
+.order-box__left {
+  margin-bottom: 20px; }
+
 .order-box__right_item {
   margin-bottom: 21px; }
   .order-box__right_item .checkbox-custom2 {
