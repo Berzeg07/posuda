@@ -454,7 +454,7 @@
 	}
 }
 .clearbusket{
-	width: 60%;
+	width: 40%;
 	text-align: left;
 	float: left;
 	display: block;
@@ -463,12 +463,18 @@
 	font-weight: 300;
 	line-height: 20px;
 	font-family: "Lato-Light";
+	@media only screen and (min-width : 770px) {
+		width: 60%;
+	}
 }
 .busket__tovar{
-	width: 40%;
+	width: 60%;
 	text-align: right;
 	float: left;
 	display: block;
+	@media only screen and (min-width : 770px) {
+		width: 40%;
+	}
 }
 .busket__tovar__cap{
 	line-height: 33px;
