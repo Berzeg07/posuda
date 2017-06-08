@@ -996,6 +996,10 @@ span {
   width: 100%;
   background-size: cover; }
 
+.order-content h2 {
+  padding-top: 56px;
+  padding-bottom: 51px; }
+
 .order-box__input {
   height: 46px;
   border: 2px solid #959497;
@@ -1019,7 +1023,12 @@ span {
 .label__check {
   color: black;
   font-family: "Lato-Light";
-  font-size: 16px; }
+  font-size: 16px;
+  cursor: pointer; }
+  .label__check b {
+    font-size: 12px; }
+  .label__check_bottom {
+    margin-bottom: 7px; }
 
 select {
   cursor: pointer; }
@@ -1028,5 +1037,26 @@ textarea {
   resize: none;
   min-height: 94px;
   padding-top: 13px; }
+
+.order-title {
+  font-size: 16px;
+  font-family: "Lato-Heavy";
+  color: black; }
+  .order-title__last {
+    padding-bottom: 20px;
+    padding-top: 19px; }
+
+.order-box__right_item {
+  margin-bottom: 21px; }
+  .order-box__right_item .checkbox-custom2 {
+    margin-top: -17px; }
+
+.busket__allsummbox2 {
+  border-top: 3px solid #3C5E95;
+  padding-top: 20px; }
+  .busket__allsummbox2 .busket__tovar {
+    width: 100%; }
+  .busket__allsummbox2 .busket__tovar__cap, .busket__allsummbox2 .busket__tovar__summ {
+    display: inline-block; }
 
 /*# sourceMappingURL=style.css.map */
