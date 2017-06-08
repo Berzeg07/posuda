@@ -167,51 +167,152 @@
 				<span>Материал: ПЭ</span>
 			</div>
 		</div>
-
 		<div class="busket_table__pricebox">
 			<span class="busket_table__caption">Цена</span>
 			<div class="busket_table__price">
 				<span>15 руб.</span>
 			</div>
 		</div>
-
-
 		<div class="busket_table__kolvo">
 			<span class="busket_table__caption">Количество</span>
-			<div class="switch__number text-align__center">
+			<div class="switch__number">
 				<span class="switch-button">+</span>
 				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">-</span>
 			</div>
-		</div>		 
-
+		</div>
 		<div class="busket_table__sort">
 			<span class="busket_table__caption">Фасовка</span>
 			<div class="busket_table__sorttxt">
 				<span>50шт/уп</span>
 				<span>200шт/кор</span>
 			</div>
-		</div>  	
-		
+		</div>		
 		<div class="busket_table__mass">
 			<span class="busket_table__caption">Вес</span>
 			<div class="busket_table__masstxt">
 				<span>63 кг</span>
 			</div>
 		</div>
-
 		<div class="busket_table__priceall">
 			<span class="busket_table__caption">Итого</span>
 			<div class="busket_table__pricealltxt">
 				<span>586 руб.</span>
 			</div>
 		</div>
-
 		<div class="busket_table__delete">
-			<a href="#">X</a>
+			<span class="busket_table__caption"></span>
+			<a href="#"></a>
 		</div>
-
+		<div class="clearfix"></div>
 	</div>
+	
+	<div class="busket_table">
+		<div class="busket_table__name">
+			<span class="busket__nameproduct">Наименование товара</span>
+			<div class="busket_table__img">
+				<img src="img/busket1.jpg" alt="">
+			</div>
+			<div class="busket_table__txtbox">
+				<h4>Сумка пластиковая ПЭ серый 157*467*520мм. </h4>
+				<span>Артикул: 413800в </span>
+				<span>Цвет: Серый</span>
+				<span>Материал: ПЭ</span>
+			</div>
+		</div>
+		<div class="busket_table__pricebox">
+			<span class="busket_table__caption">Цена</span>
+			<div class="busket_table__price">
+				<span>15 руб.</span>
+			</div>
+		</div>
+		<div class="busket_table__kolvo">
+			<span class="busket_table__caption">Количество</span>
+			<div class="switch__number">
+				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
+			</div>
+		</div>
+		<div class="busket_table__sort">
+			<span class="busket_table__caption">Фасовка</span>
+			<div class="busket_table__sorttxt">
+				<span>50шт/уп</span>
+				<span>200шт/кор</span>
+			</div>
+		</div>		
+		<div class="busket_table__mass">
+			<span class="busket_table__caption">Вес</span>
+			<div class="busket_table__masstxt">
+				<span>63 кг</span>
+			</div>
+		</div>
+		<div class="busket_table__priceall">
+			<span class="busket_table__caption">Итого</span>
+			<div class="busket_table__pricealltxt">
+				<span>586 руб.</span>
+			</div>
+		</div>
+		<div class="busket_table__delete">
+			<span class="busket_table__caption"></span>
+			<a href="#"></a>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	
+	<div class="busket_table">
+		<div class="busket_table__name">
+			<span class="busket__nameproduct">Наименование товара</span>
+			<div class="busket_table__img">
+				<img src="img/busket1.jpg" alt="">
+			</div>
+			<div class="busket_table__txtbox">
+				<h4>Сумка пластиковая ПЭ серый 157*467*520мм. </h4>
+				<span>Артикул: 413800в </span>
+				<span>Цвет: Серый</span>
+				<span>Материал: ПЭ</span>
+			</div>
+		</div>
+		<div class="busket_table__pricebox">
+			<span class="busket_table__caption">Цена</span>
+			<div class="busket_table__price">
+				<span>15 руб.</span>
+			</div>
+		</div>
+		<div class="busket_table__kolvo">
+			<span class="busket_table__caption">Количество</span>
+			<div class="switch__number">
+				<span class="switch-button">+</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">-</span>
+			</div>
+		</div>
+		<div class="busket_table__sort">
+			<span class="busket_table__caption">Фасовка</span>
+			<div class="busket_table__sorttxt">
+				<span>50шт/уп</span>
+				<span>200шт/кор</span>
+			</div>
+		</div>		
+		<div class="busket_table__mass">
+			<span class="busket_table__caption">Вес</span>
+			<div class="busket_table__masstxt">
+				<span>63 кг</span>
+			</div>
+		</div>
+		<div class="busket_table__priceall">
+			<span class="busket_table__caption">Итого</span>
+			<div class="busket_table__pricealltxt">
+				<span>586 руб.</span>
+			</div>
+		</div>
+		<div class="busket_table__delete">
+			<span class="busket_table__caption"></span>
+			<a href="#"></a>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
 </div>
 
 
