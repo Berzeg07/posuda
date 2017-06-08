@@ -306,6 +306,8 @@ span {
 #slider__actual .item-box {
   text-align: center;
   width: 90px; }
+  #slider__actual .item-box a {
+    display: inline-block; }
   @media only screen and (min-width: 992px) {
     #slider__actual .item-box {
       width: 116%; } }
@@ -323,8 +325,12 @@ span {
     font-family: "Lato-Light";
     padding: 0 8px; }
 
-.item-box__1:hover p {
-  color: red; }
+.item-box__1 a {
+  display: inline-block; }
+  .item-box__1 a:hover p {
+    color: red !important; }
+  .item-box__1 a:hover .item-box-img1 {
+    background: url(../img/p1-2.png) no-repeat top center !important; }
 
 .nav-left {
   background: url(../img/left.png) no-repeat;
