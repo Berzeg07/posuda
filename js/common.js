@@ -75,6 +75,14 @@ $(document).ready(function(){
         });
     });
 
+     $('.filter__client a').click(function(e) {
+        e.preventDefault();
+        $('.filter__client_active').removeClass('filter__client_active');
+        $(this).addClass('filter__client_active');
+        var tab = $(this).attr('href');       
+        $('.catalog__content').not(tab).css({'display':'none'});
+        $(tab).css({'display':'block'});
+    });  
 
 
        /* Timer 
