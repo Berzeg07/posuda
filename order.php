@@ -149,7 +149,7 @@
 			<h2>Оформление заказа</h2>
 			<div class="order-box">
 				
-				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<div class="order-box__left">
 						<input class="order-box__input" type="text" placeholder="Имя">
 						<input class="order-box__input" type="text" placeholder="Фамилия">
@@ -169,7 +169,7 @@
 						</label>
 					</div>
 				</div>
-				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+				<div class="col-xs-12 col-sm-12 col-md-8 col-lg-4">
 					<div class="order-box__right">
 						<div class="order-box__right_item">
 							<span class="order-title">Способы оплаты</span><br/>
@@ -204,7 +204,7 @@
 								<span class="label label__check label__check_bottom">Самовывоз со склада в Москве 0 р.<br/>
 									<b>(Самовывоз со склада по адресу: Уфа, ул. Силикатная, д. 25 )</b> 
 								</span>
-							</label>
+							</label><br/>
 
 							<label>
 								<input class="checkbox" type="radio" name="checkbox-sheeping">
@@ -212,7 +212,7 @@
 								<span class="label label__check">Яндекс.Доставка (Самовывоз) 237 р.<br/>
 									<b>(Доставка до пункта выдачи. Не более 1 коробки ) </b>
 								</span>
-							</label>
+							</label><br/>
 
 							<span class="order-title order-title__last">Адрес доставки</span><br/>
 							<input class="order-box__input" type="text" placeholder="">

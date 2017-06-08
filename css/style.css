@@ -211,7 +211,7 @@ span {
     color: #989898;
     font-family: "Lato-Light"; }
   .poisk-wrap input[type="submit"] {
-    background: url(../img/lupa.png);
+    background: url(../img/lupa.png) no-repeat;
     width: 12px;
     height: 12px;
     outline: none;
@@ -1023,8 +1023,11 @@ span {
 .label__check {
   color: black;
   font-family: "Lato-Light";
-  font-size: 16px;
+  font-size: 13px;
   cursor: pointer; }
+  @media only screen and (min-width: 1240px) {
+    .label__check {
+      font-size: 16px; } }
   .label__check b {
     font-size: 12px; }
   .label__check_bottom {
@@ -1045,6 +1048,9 @@ textarea {
   .order-title__last {
     padding-bottom: 20px;
     padding-top: 19px; }
+
+.order-box__left {
+  margin-bottom: 20px; }
 
 .order-box__right_item {
   margin-bottom: 21px; }
