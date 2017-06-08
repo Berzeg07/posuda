@@ -1023,8 +1023,11 @@ span {
 .label__check {
   color: black;
   font-family: "Lato-Light";
-  font-size: 16px;
+  font-size: 13px;
   cursor: pointer; }
+  @media only screen and (min-width: 1240px) {
+    .label__check {
+      font-size: 16px; } }
   .label__check b {
     font-size: 12px; }
   .label__check_bottom {
