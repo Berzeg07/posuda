@@ -1,11 +1,11 @@
 .catalogimg {
-  background: url("../img/catalogimg.jpg") no-repeat top center; }
+  background: url("../img/catalogimg.jpg") no-repeat top center;
+  background-size: cover; }
 
 .filter {
   background-color: #ada9a6;
   padding: 12px 10px 15px 10px;
-  max-width: 1148px;
-  margin: 0 auto;
+  margin-top: 30px;
   margin-bottom: 30px;
   text-align: center; }
   @media only screen and (min-width: 1200px) {
@@ -166,5 +166,9 @@
   @media only screen and (min-width: 990px) {
     .catalog__marginbottom {
       margin-bottom: 60px; } }
+
+.busketimg {
+  background: url(../img/busketimg.jpg) no-repeat top center;
+  background-size: cover; }
 
 /*# sourceMappingURL=style-df.css.map */
