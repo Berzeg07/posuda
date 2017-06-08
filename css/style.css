@@ -180,7 +180,7 @@ span {
 .header-bottom__box:nth-child(4) span:first-child:after {
   position: absolute;
   content: "";
-  top: 6px;
+  top: 11px;
   left: 0;
   width: 15px;
   height: 25px;
@@ -188,7 +188,7 @@ span {
 .header-bottom__box:nth-child(4) span:last-child:after {
   position: absolute;
   content: "";
-  top: 3px;
+  top: 5px;
   left: -2px;
   width: 19px;
   height: 13px;
@@ -1060,6 +1060,11 @@ textarea {
 
 .order-box__left {
   margin-bottom: 20px; }
+  .order-box__left .selectric {
+    background: #fff;
+    outline: none;
+    border: 2px solid #959497;
+    margin-bottom: 19px; }
 
 .order-box__right_item {
   margin-bottom: 21px; }
