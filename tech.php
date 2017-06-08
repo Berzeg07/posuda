@@ -160,11 +160,11 @@
 				<div class="clear"></div>
 
 				<div class="special__bottom">
-						<div class="dd-times__txt">
-							<span>До конца<br/> акции:</span>
-						</div>
+					<div class="dd-times__txt">
+						<span>До конца<br/> акции:</span>
+					</div>
 					<div class="dd-times">
-					
+						
 
 						<div class="dd-div no-margin">
 							<div class="line-timer"></div>
@@ -207,6 +207,13 @@
 
 			</div>
 		</div><!-- Special end -->
+
+		<!-- Чекбокс -->
+		<label>
+			<input class="checkbox" type="checkbox" name="checkbox-test" checked>
+			<span class="checkbox-custom"></span>
+			<span class="label"></span>
+		</label>
 
 
 	</div>

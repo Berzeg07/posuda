@@ -989,4 +989,44 @@ span {
       padding-top: 70px;
       padding-bottom: 60px; } }
 
+/* Order
+========================*/
+.order {
+  background: url(../img/order.jpg) no-repeat top center;
+  width: 100%;
+  background-size: cover; }
+
+.order-box__input {
+  height: 46px;
+  border: 2px solid #959497;
+  color: black;
+  font-family: "Lato-Light";
+  font-size: 16px;
+  padding-left: 13px;
+  padding-right: 5px;
+  width: 100%;
+  outline: none;
+  margin-bottom: 19px; }
+  .order-box__input::-webkit-input-placeholder {
+    color: black; }
+  .order-box__input::-moz-placeholder {
+    color: black; }
+  .order-box__input:-moz-placeholder {
+    color: black; }
+  .order-box__input:-ms-input-placeholder {
+    color: black; }
+
+.label__check {
+  color: black;
+  font-family: "Lato-Light";
+  font-size: 16px; }
+
+select {
+  cursor: pointer; }
+
+textarea {
+  resize: none;
+  min-height: 94px;
+  padding-top: 13px; }
+
 /*# sourceMappingURL=style.css.map */
