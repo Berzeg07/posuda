@@ -64,20 +64,41 @@
 		font-size: 16px;
 		display: block;
 	}
-	select{
+	.selectric-wrapper{
+		width: 155px;
+	}
+	.selectric .label{
 		color: black;
 		font-family: "Lato-Light";
 		font-size: 16px;
 		font-weight: 300;
-		line-height: 34px;
+		line-height: 28px;
 		cursor: pointer;   
 		background-color: #fff;
 		width: 156px;
 		height: 27px;
 		padding-left: 5px;
 		outline: none;
-		-webkit-appearance: menulist-button;		
-		appearance: menulist-button;
+	}
+	.selectric .button{
+		background-color: #fff;
+		top:-5px;
+	}
+	.selectric-items li{
+		color: black;
+		font-family: "Lato-Light";
+		font-size: 16px;
+		font-weight: 300;
+		line-height: 28px;
+		cursor: pointer;   
+		background-color: #fff;
+		    padding: 5px 10px;
+		&:hover{
+			background: #D5D5D5;
+			color: #444;
+		}
+	}
+	select{		
 		option{
 			
 		}

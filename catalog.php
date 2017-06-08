@@ -160,6 +160,7 @@
 	</div>
 
 	<div class="filter__sort">
+		<span>Отсортировать по:</span>
 		<select>
 			<option value="1">Цене</option>
 			<option value="2">Алфавиту</option>			

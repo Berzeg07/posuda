@@ -1,5 +1,8 @@
 $(document).ready(function(){
 
+    // плагин селекта
+     $('select').selectric();
+
     // переключатель
     var itemprice = $('.item-price').text();
     $('#total').val(itemprice);
@@ -283,7 +286,7 @@ $(document).ready(function(){
 
 
 
-  $('select').selectric();
+ 
 
 
 });//END READY
