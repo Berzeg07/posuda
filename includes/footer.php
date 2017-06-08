@@ -92,11 +92,13 @@
 <script type="text/javascript" src="js/jquery.mousewheel.js"></script>
 <script src="js/responsiveTabs.js"></script>
 <script src="js/jquery.maskedinput.min.js"></script>
-<script src="js/fonts.js"></script>
-<script src="js/common.js"></script>
+
 <script src="js/swiper.min.js"></script>
 <script src="js/jquery.cssslider.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="js/jquery.selectric.min.js"></script>
+<script src="js/fonts.js"></script>
+<script src="js/common.js"></script>
 
 </body>
 </html>
