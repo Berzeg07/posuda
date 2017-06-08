@@ -1064,7 +1064,30 @@ textarea {
     background: #fff;
     outline: none;
     border: 2px solid #959497;
-    margin-bottom: 19px; }
+    margin-bottom: 19px;
+    padding-left: 2px; }
+  .order-box__left .selectric .label {
+    font-family: "Lato-Light";
+    font-size: 16px;
+    color: black; }
+  .order-box__left .selectric .button {
+    background: #fff;
+    top: 2px; }
+    .order-box__left .selectric .button:after {
+      border: 5px solid transparent;
+      border-top-color: #0e0e0e; }
+  .order-box__left .selectric-items li {
+    color: black;
+    font-family: "Lato-Light";
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 5px 10px; }
+    .order-box__left .selectric-items li:hover {
+      background: #D5D5D5;
+      color: #444; }
 
 .order-box__right_item {
   margin-bottom: 21px; }

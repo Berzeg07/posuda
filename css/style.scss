@@ -1351,7 +1351,35 @@ textarea{
         outline: none;
         border:2px solid #959497;
         margin-bottom: 19px;
+        padding-left: 2px;
     }
+    .selectric .label{
+      font-family: "Lato-Light";
+      font-size: 16px;
+      color: black;
+  }
+  .selectric .button{
+    background:#fff;
+    top:2px;
+    &:after{
+     border: 5px solid transparent;
+     border-top-color: #0e0e0e;
+ }
+}
+ .selectric-items li{
+  color: black;
+  font-family: "Lato-Light";
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 28px;
+  cursor: pointer;   
+  background-color: #fff;
+      padding: 5px 10px;
+  &:hover{
+   background: #D5D5D5;
+   color: #444;
+  }
+ }
 }
 .order-box__right{
     &_item{
