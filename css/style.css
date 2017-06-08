@@ -906,4 +906,87 @@ span {
         .biznes-box__txt span {
           font-size: 33px; } }
 
+/* Contact
+=======================*/
+.contact {
+  background: url(../img/cbg.jpg) no-repeat top center;
+  background-size: cover; }
+
+.contact-info {
+  color: #fff;
+  margin-bottom: 112px; }
+  @media only screen and (min-width: 992px) {
+    .contact-info {
+      padding: 0 26px; } }
+  .contact-info span {
+    font-size: 13px;
+    line-height: 41px;
+    font-family: "MyriadPro-Regular"; }
+    @media only screen and (min-width: 480px) {
+      .contact-info span {
+        font-size: 18px; } }
+  .contact-info span:first-child {
+    font-size: 40px;
+    margin-bottom: 44px; }
+    @media only screen and (min-width: 768px) {
+      .contact-info span:first-child {
+        font-size: 62px; } }
+
+.map {
+  margin-top: 38px;
+  margin-bottom: 59px; }
+
+.map-title {
+  text-align: center; }
+  .map-title h2 {
+    padding-top: 26px;
+    padding-bottom: 19px; }
+  .map-title p {
+    font-size: 16px;
+    color: #656565;
+    line-height: 27px;
+    font-family: "Lato-Light"; }
+
+/* News
+========================*/
+.news-wr {
+  background: url(../img/nbg.jpg) no-repeat top center;
+  background-size: cover; }
+
+.news h2 {
+  padding-top: 46px;
+  padding-bottom: 52px; }
+
+.news__box_right {
+  margin-bottom: 26px;
+  font-family: "Lato-Light"; }
+  .news__box_right span {
+    color: #f62d3a;
+    font-size: 16px;
+    line-height: 28px; }
+  .news__box_right h3 {
+    font-size: 26px;
+    color: black;
+    line-height: 28px;
+    padding-bottom: 13px; }
+    @media only screen and (min-width: 768px) {
+      .news__box_right h3 {
+        font-size: 30px; } }
+  .news__box_right p {
+    color: #656565;
+    font-size: 16px;
+    line-height: 27px;
+    padding-bottom: 14px; }
+.news__box_left {
+  margin-bottom: 26px; }
+  .news__box_left img {
+    margin: 0 auto; }
+
+.pagination__news {
+  padding: 20px 0px; }
+  @media only screen and (min-width: 768px) {
+    .pagination__news {
+      padding-top: 70px;
+      padding-bottom: 60px; } }
+
 /*# sourceMappingURL=style.css.map */

@@ -61,9 +61,8 @@ $(document).ready(function(){
         }
     });
 
-    // $('.item-box__1').hover(function(){
-    //     $('p').css('color', 'red');
-    // });
+
+
 
 
        /* Timer 
