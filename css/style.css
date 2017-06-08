@@ -332,6 +332,69 @@ span {
   .item-box__1 a:hover .item-box-img1 {
     background: url(../img/p1-2.png) no-repeat top center !important; }
 
+.item-box__2 a {
+  display: inline-block; }
+  .item-box__2 a:hover p {
+    color: red !important; }
+  .item-box__2 a:hover .item-box-img2 {
+    background: url(../img/p2.png) no-repeat top center !important; }
+
+.item-box__3 a {
+  display: inline-block; }
+  .item-box__3 a:hover p {
+    color: red !important; }
+  .item-box__3 a:hover .item-box-img3 {
+    background: url(../img/p3-2.png) no-repeat top center !important; }
+
+.item-box__4 a {
+  display: inline-block; }
+  .item-box__4 a:hover p {
+    color: red !important; }
+  .item-box__4 a:hover .item-box-img4 {
+    background: url(../img/p4-2.png) no-repeat top center !important; }
+
+.item-box__5 a {
+  display: inline-block; }
+  .item-box__5 a:hover p {
+    color: red !important; }
+  .item-box__5 a:hover .item-box-img5 {
+    background: url(../img/p5-2.png) no-repeat top center !important; }
+
+.item-box__6 a {
+  display: inline-block; }
+  .item-box__6 a:hover p {
+    color: red !important; }
+  .item-box__6 a:hover .item-box-img6 {
+    background: url(../img/p6-2.png) no-repeat top center !important; }
+
+.item-box__7 a {
+  display: inline-block; }
+  .item-box__7 a:hover p {
+    color: red !important; }
+  .item-box__7 a:hover .item-box-img7 {
+    background: url(../img/p7-2.png) no-repeat top center !important; }
+
+.item-box__8 a {
+  display: inline-block; }
+  .item-box__8 a:hover p {
+    color: red !important; }
+  .item-box__8 a:hover .item-box-img8 {
+    background: url(../img/p8-2.png) no-repeat top center !important; }
+
+.item-box__9 a {
+  display: inline-block; }
+  .item-box__9 a:hover p {
+    color: red !important; }
+  .item-box__9 a:hover .item-box-img9 {
+    background: url(../img/p9-2.png) no-repeat top center !important; }
+
+.item-box__10 a {
+  display: inline-block; }
+  .item-box__10 a:hover p {
+    color: red !important; }
+  .item-box__10 a:hover .item-box-img10 {
+    background: url(../img/p10-2.png) no-repeat top center !important; }
+
 .nav-left {
   background: url(../img/left.png) no-repeat;
   width: 14px;
