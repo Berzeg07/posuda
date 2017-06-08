@@ -27,12 +27,12 @@
 		<div class="container-menu">
 			<div class="main-menu">
 				<ul>
-					<li><a class="menu-item" href="#">Каталог</a></li>
-					<li><a class="menu-item" href="#">Оплата</a></li>
-					<li><a class="menu-item" href="#">Доставка</a></li>
-					<li><a class="menu-item" href="#">Клиентам</a></li>
-					<li><a class="menu-item" href="#">О компании</a></li>
-					<li><a class="menu-item" href="#">Доставка</a></li>
+					<li><a class="menu-item" href="index.php">Главная</a></li>
+					<li><a class="menu-item" href="catalog.php">Каталог</a></li>
+					<li><a class="menu-item" href="order.php">Оформление</a></li>
+					<li><a class="menu-item" href="news.php">Новости</a></li>
+					<li><a class="menu-item" href="busket.php">Корзина</a></li>
+					<li><a class="menu-item" href="contact.php">Контакты</a></li>
 					<li><a class="enter" href="#">Войти</a> <span class="rice">|</span> <a href="#">Регистрация</a></li>
 				</ul>
 			</div>
