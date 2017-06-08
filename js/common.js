@@ -61,6 +61,10 @@ $(document).ready(function(){
         }
     });
 
+
+
+
+
        /* Timer 
        =======================*/ 
        var count = 8;
@@ -137,7 +141,7 @@ $(document).ready(function(){
        ======================*/
 
        // slider news
-        var owl2 = $("#slider__news");
+       var owl2 = $("#slider__news");
        owl2.owlCarousel({
         loop:true,
         nav:true, 
@@ -156,20 +160,20 @@ $(document).ready(function(){
             768:{
                 items:3
             },   
-             992:{
+            992:{
                 items:4
             },    
         }
     });
 
               // slider news
-        var owl2 = $("#slider__actions");
-       owl2.owlCarousel({
-        loop:true,
-        nav:true, 
-        autoplay:false,
-        smartSpeed:1000,
-        margin: 0,
+              var owl2 = $("#slider__actions");
+              owl2.owlCarousel({
+                loop:true,
+                nav:true, 
+                autoplay:false,
+                smartSpeed:1000,
+                margin: 0,
         center:false,     //если нужны обрезаные края
         navText:['<span class="nav-left3"></span>','<span class="nav-right3"></span>'],
         responsive:{
@@ -182,7 +186,7 @@ $(document).ready(function(){
             768:{
                 items:3
             },   
-             992:{
+            992:{
                 items:4
             },    
         }

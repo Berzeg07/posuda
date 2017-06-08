@@ -280,3 +280,36 @@ h2{
         }
     }
 }
+
+// Чекбокс
+.checkbox {
+    display: none;
+}
+ .checkbox-custom {
+    position: relative;
+    width: 18px;            
+    height: 15px;            
+    background:none;
+    margin-top: 2px;
+    margin-right: 8px;
+    background:url(../img/marker.png) no-repeat top center;
+    cursor: pointer;
+}
+ .checkbox-custom,
+.label {
+    display: inline-block;
+    vertical-align: middle;
+}
+ 
+.checkbox:checked + .checkbox-custom::before {
+    content: "";             
+    display: block;          
+    position: absolute;      
+    width: 18px;
+    height: 15px;
+    top: 0px;
+    right: 0px;
+    bottom: 2px;
+    left: 0px;
+    background: url(../img/marker2.png) no-repeat;
+}

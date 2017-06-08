@@ -13,7 +13,7 @@
 
 				<div class="item">
 					<div class="item-box item-box__1">
-						<a href="#">
+						<a class="item-box_1" href="#">
 							<div class="item-box-img item-box-img1">
 								<!-- <img src="img/p1.png" alt=""> -->
 							</div>
