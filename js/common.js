@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
     // плагин селекта
-     $('select').selectric();
+    $('select').selectric();
 
     // переключатель
     var itemprice = $('.item-price').text();
@@ -64,7 +64,16 @@ $(document).ready(function(){
         }
     });
 
-
+       $(function(){
+        $(window).scroll(function() {
+            if($(this).scrollTop() >= 737) {
+                $('.slider-wrap').addClass('stickytop');
+            }
+            else{
+                $('.slider-wrap').removeClass('stickytop');
+            }
+        });
+    });
 
 
 
@@ -286,7 +295,7 @@ $(document).ready(function(){
 
 
 
- 
+
 
 
 });//END READY
