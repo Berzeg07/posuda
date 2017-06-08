@@ -1019,7 +1019,12 @@ span {
 .label__check {
   color: black;
   font-family: "Lato-Light";
-  font-size: 16px; }
+  font-size: 16px;
+  cursor: pointer; }
+  .label__check b {
+    font-size: 12px; }
+  .label__check_bottom {
+    margin-bottom: 7px; }
 
 select {
   cursor: pointer; }
@@ -1028,5 +1033,18 @@ textarea {
   resize: none;
   min-height: 94px;
   padding-top: 13px; }
+
+.order-title {
+  font-size: 16px;
+  font-family: "Lato-Heavy";
+  color: black; }
+  .order-title__last {
+    padding-bottom: 20px;
+    padding-top: 19px; }
+
+.order-box__right_item {
+  margin-bottom: 21px; }
+  .order-box__right_item .checkbox-custom2 {
+    margin-top: -17px; }
 
 /*# sourceMappingURL=style.css.map */

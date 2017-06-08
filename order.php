@@ -172,7 +172,7 @@
 				<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
 					<div class="order-box__right">
 						<div class="order-box__right_item">
-							<span>Способы оплаты</span><br/>
+							<span class="order-title">Способы оплаты</span><br/>
 
 							<label>
 								<input class="checkbox" type="radio" name="checkbox-money" checked>
@@ -181,40 +181,40 @@
 							</label><br/>
 
 							<label>
-								<input class="checkbox" type="radio" name="checkbox-money" checked>
+								<input class="checkbox" type="radio" name="checkbox-money">
 								<span class="checkbox-custom"></span>
 								<span class="label label__check">Безналичный</span>
 							</label>
 						</div>
 						
 						<div class="order-box__right_item">
-							<span>Способы доставки</span><br/>
+							<span class="order-title">Способы доставки</span><br/>
 
 							<label>
 								<input class="checkbox" type="radio" name="checkbox-sheeping" checked>
-								<span class="checkbox-custom"></span>
-								<span class="label label__check">Доставка заказа по Москве 0 р.
-									(Доставка в пределах города. Сумма заказа от 3000 рублей) 
+								<span class="checkbox-custom checkbox-custom2"></span>
+								<span class="label label__check label__check_bottom">Доставка заказа по Москве 0 р.<br/>
+									<b>(Доставка в пределах города. Сумма заказа от 3000 рублей) </b>
 								</span>
 							</label><br/>
 
 							<label>
-								<input class="checkbox" type="radio" name="checkbox-sheeping" checked>
-								<span class="checkbox-custom"></span>
-								<span class="label label__check">Самовывоз со склада в Москве 0 р.
-									(Самовывоз со склада по адресу: Уфа, ул. Силикатная, д. 25 ) 
+								<input class="checkbox" type="radio" name="checkbox-sheeping">
+								<span class="checkbox-custom checkbox-custom2"></span>
+								<span class="label label__check label__check_bottom">Самовывоз со склада в Москве 0 р.<br/>
+									<b>(Самовывоз со склада по адресу: Уфа, ул. Силикатная, д. 25 )</b> 
 								</span>
 							</label>
 
 							<label>
-								<input class="checkbox" type="radio" name="checkbox-sheeping" checked>
-								<span class="checkbox-custom"></span>
-								<span class="label label__check">Яндекс.Доставка (Самовывоз)	237 р.
-									(Доставка до пункта выдачи. Не более 1 коробки ) 
+								<input class="checkbox" type="radio" name="checkbox-sheeping">
+								<span class="checkbox-custom checkbox-custom2"></span>
+								<span class="label label__check">Яндекс.Доставка (Самовывоз) 237 р.<br/>
+									<b>(Доставка до пункта выдачи. Не более 1 коробки ) </b>
 								</span>
 							</label>
 
-							<span>Адрес доставки</span><br/>
+							<span class="order-title order-title__last">Адрес доставки</span><br/>
 							<input class="order-box__input" type="text" placeholder="">
 
 						</div>
