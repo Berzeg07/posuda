@@ -186,7 +186,7 @@ span{
     }
 }
 @media only screen and (min-width: 992px) {
-   &__box:nth-child(1){
+ &__box:nth-child(1){
     padding-left: 6px;
 }
 &__box:nth-child(2){
@@ -224,14 +224,14 @@ span{
         background:url(../img/tel.png) no-repeat left center;
     }
     span:last-child:after{
-       position: absolute;
-       content: "";
-       top: 3px;
-       left: -2px;
-       width: 19px;
-       height: 13px;
-       background:url(../img/email.png) no-repeat left center;
-   }
+     position: absolute;
+     content: "";
+     top: 3px;
+     left: -2px;
+     width: 19px;
+     height: 13px;
+     background:url(../img/email.png) no-repeat left center;
+ }
 }
 }
 .poisk-wrap{
@@ -299,17 +299,17 @@ span{
     }
 }
 .header-slogan{
-   font-family: "Lato-Heavy";
-   display: inline-block;
-   font-size: 20px;
-   color: #fff;
-   padding-left: 10px;
-   padding-bottom: 20px;
-   @media only screen and (min-width: 768px) {
-       padding-left: 39px;
-       font-size: 24px;
-       padding-bottom: 128px;
-   }
+ font-family: "Lato-Heavy";
+ display: inline-block;
+ font-size: 20px;
+ color: #fff;
+ padding-left: 10px;
+ padding-bottom: 20px;
+ @media only screen and (min-width: 768px) {
+     padding-left: 39px;
+     font-size: 24px;
+     padding-bottom: 128px;
+ }
 }
 .slider-container{
     max-width: 1050px;
@@ -328,6 +328,38 @@ span{
     background-size:cover;
 }
 #slider__actual{
+
+    .item-box-img1{
+        background:url(../img/p1.png) no-repeat top center;
+    }
+    .item-box-img2{
+        background:url(../img/p2-1.png) no-repeat top center;
+    }
+    .item-box-img3{
+        background:url(../img/p3.png) no-repeat top center;
+    }
+    .item-box-img4{
+        background:url(../img/p4.png) no-repeat top center;
+    }
+    .item-box-img5{
+        background:url(../img/p5.png) no-repeat top center;
+    }
+    .item-box-img6{
+        background:url(../img/p6.png) no-repeat top center;
+    }
+    .item-box-img7{
+        background:url(../img/p7.png) no-repeat top center;
+    }
+    .item-box-img8{
+        background:url(../img/p8.png) no-repeat top center;
+    }
+    .item-box-img9{
+        background:url(../img/p9.png) no-repeat top center;
+    }
+    .item-box-img10{
+        background:url(../img/p10.png) no-repeat top center;
+    }
+    
     .owl-dots{
         display: none !important;
     }
@@ -377,7 +409,7 @@ span{
             width: 100%;
         }
         .item-box-img{
-            width: 39px;
+            width: 40px;
             height: 39px;
             margin: 0 auto;
             text-align: center;
@@ -390,6 +422,12 @@ span{
         }
     }
 }
+.item-box__1:hover{
+    p{
+        color:red;
+    }
+}
+
 .nav-left{
     background: url(../img/left.png) no-repeat;
     width: 14px;
@@ -456,22 +494,22 @@ span{
             float: right;
         }
         input[type="text"]{
-           font-family: "Lato-Light";
-           outline: none;
-           border:none;
-           width: 100%;
-           height: 39px;
-           background-color: white;
-           border-radius: 12px;
-           padding-left: 18px;
-           font-size: 16px;
-           color: #898989;
-           @media only screen and (min-width: 768px) {
-               float: left;
-               width: calc(99% - 161px);
-           }
-       }
-       button{
+         font-family: "Lato-Light";
+         outline: none;
+         border:none;
+         width: 100%;
+         height: 39px;
+         background-color: white;
+         border-radius: 12px;
+         padding-left: 18px;
+         font-size: 16px;
+         color: #898989;
+         @media only screen and (min-width: 768px) {
+             float: left;
+             width: calc(99% - 161px);
+         }
+     }
+     button{
         margin-top: 15px;
         @media only screen and (min-width: 768px) {
             margin-top: 0;
@@ -505,13 +543,13 @@ span{
             li{
                 margin-bottom: 5px;
                 a{
-                   font-size: 16px;
-                   color: white;
-                   font-family: "Lato-Light";
-               }
-           }
-       }
-       @media only screen and (min-width: 992px) {
+                 font-size: 16px;
+                 color: white;
+                 font-family: "Lato-Light";
+             }
+         }
+     }
+     @media only screen and (min-width: 992px) {
         ul:first-child{
             width: 32%;
             float: left;
@@ -531,7 +569,7 @@ span{
     }
 }
 @media only screen and (min-width: 992px) {
-   &__middle{
+ &__middle{
     &_item{
         width: 50%;
         float: left;
@@ -651,7 +689,7 @@ span{
         }
     }
     &_right{
-       @media only screen and (min-width: 480px) {
+     @media only screen and (min-width: 480px) {
         float: right;
         padding-top: 17px;
     }
@@ -993,9 +1031,9 @@ span{
         z-index: 100;
     }
     &:hover:after{
-       background:rgba(black, 0.7);
-   }
-   &__txt{
+     background:rgba(black, 0.7);
+ }
+ &__txt{
     position: absolute;
     top:41%;
     left:50%;
