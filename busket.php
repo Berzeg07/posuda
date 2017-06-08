@@ -312,7 +312,17 @@
 		</div>
 		<div class="clearfix"></div>
 	</div>
-
+	
+	<div class="busket__allsummbox">
+		<span class="clearbusket">Очистить корзину</span>
+		<div class="busket__tovar">
+			<h3 class="busket__tovar__cap"><b>3</b> товара на сумму</h3>
+			<span class="busket__tovar__summ">1758 руб.</span>
+			<span class="busket__tovar__mass">Общий вес; 287 кг</span>
+			<a class="but but_5" href="#">Оформить заказ</a>
+		</div>
+		<div class="clearfix"></div>
+	</div>	
 </div>
 
 
