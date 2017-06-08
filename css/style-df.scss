@@ -82,7 +82,11 @@
 	}
 	.selectric .button{
 		background-color: #fff;
-		top:-5px;
+		top:-3px;
+		&:after{
+			border: 5px solid transparent;
+			border-top-color: #0e0e0e;
+		}
 	}
 	.selectric-items li{
 		color: black;
