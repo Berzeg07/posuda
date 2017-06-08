@@ -6,13 +6,13 @@
 	<title>Главная</title>
 
 	<link rel="stylesheet" href="libs/bootstrap/bootstrap-grid-3.3.1.min.css" />
-	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/style-block.css">
-	<link rel="stylesheet" href="css/style-df.css">
-	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="libs/fancybox/jquery.fancybox.css" />	
 	<link rel="stylesheet" href="libs/owl.carousel/assets/owl.carousel.css" />
 	<link rel="stylesheet" href="css/jquery.mCustomScrollbar.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<link rel="stylesheet" href="css/style.css">	
+	<link rel="stylesheet" href="css/style-block.css">
+	<link rel="stylesheet" href="css/style-df.css">
 	
 </head>
 <body>
