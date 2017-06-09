@@ -9,7 +9,7 @@
 
 <div class="container">
 
-	<div class="about-company">
+	<div class="about-company__inner">
 
 		<p>Добро пожаловать на сайт Торговой Компании "Паритет"</p>
 

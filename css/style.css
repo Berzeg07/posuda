@@ -112,7 +112,7 @@ span {
             background: none; } }
     @media only screen and (min-width: 992px) {
       .main-menu ul li .menu-item {
-        width: 118px; }
+        width: 111px; }
         .main-menu ul li .menu-item:hover {
           border-bottom: 2px solid red; } }
     @media only screen and (min-width: 1240px) {
@@ -1168,13 +1168,13 @@ textarea {
 
 /* about company
 ===========================*/
-.about-company {
+.about-company__inner {
   text-align: center;
   margin-bottom: 25px; }
   @media only screen and (min-width: 992px) {
-    .about-company {
+    .about-company__inner {
       margin-bottom: 50px; } }
-  .about-company p, .about-company ul li {
+  .about-company__inner p, .about-company__inner ul li {
     font-family: "MyriadPro-Regular";
     font-size: 20px;
     color: #404040;
