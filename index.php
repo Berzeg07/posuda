@@ -831,11 +831,11 @@
 	<div class="biznes">
 		<h2>Предложения для бизнеса</h2>
 		<div class="biznes-link">
-			<a href="#">Посмотреть все ></a>
+			<a href="about.php">Посмотреть все ></a>
 		</div>
 		<div class="row">
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-				<a href="#">
+				<a href="about.php">
 					<div class="biznes-box">
 						<img class="img-responsive" src="img/b1.jpg" alt="">
 						<div class="biznes-box__txt">
@@ -845,7 +845,7 @@
 				</a>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-				<a href="#">
+				<a href="about.php">
 					<div class="biznes-box">
 						<img class="img-responsive" src="img/b2.jpg" alt="">
 						<div class="biznes-box__txt">
@@ -857,7 +857,7 @@
 			<div class="clearfix"></div>
 
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-				<a href="#">
+				<a href="about.php">
 					<div class="biznes-box">
 						<img class="img-responsive" src="img/b3.jpg" alt="">
 						<div class="biznes-box__txt">
@@ -867,7 +867,7 @@
 				</a>
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 no-padding">
-				<a href="#">
+				<a href="about.php">
 					<div class="biznes-box">
 						<img class="img-responsive" src="img/b4.jpg" alt="">
 						<div class="biznes-box__txt">
