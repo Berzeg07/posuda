@@ -29,9 +29,9 @@
 				<ul>
 					<li><a class="menu-item" href="index.php">Главная</a></li>
 					<li><a class="menu-item" href="catalog.php">Каталог</a></li>
-					<li><a class="menu-item" href="order.php">Оформление</a></li>
 					<li><a class="menu-item" href="news.php">Новости</a></li>
 					<li><a class="menu-item" href="busket.php">Корзина</a></li>
+					<li><a class="menu-item" href="order.php">Оформление</a></li>
 					<li><a class="menu-item" href="contact.php">Контакты</a></li>
 					<li><a class="enter" href="#">Войти</a> <span class="rice">|</span> <a href="#">Регистрация</a></li>
 				</ul>
