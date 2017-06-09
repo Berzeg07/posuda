@@ -1117,4 +1117,51 @@ textarea {
   .busket__allsummbox2 .busket__tovar__cap, .busket__allsummbox2 .busket__tovar__summ {
     display: inline-block; }
 
+/* FAQ
+=========================*/
+.faq-wrap {
+  padding-top: 20px;
+  margin-bottom: 50px; }
+
+.faq__box {
+  margin-bottom: 80px; }
+  .faq__box ul li {
+    margin-bottom: 8px; }
+    .faq__box ul li span {
+      font-family: "Lato-Heavy";
+      text-transform: uppercase;
+      font-size: 15px;
+      color: #1F5E98;
+      padding-left: 37px;
+      padding-top: 7px;
+      height: 28px; }
+  .faq__box ul li:nth-child(1) span {
+    background: url(../img/tab1.png) no-repeat left center; }
+  .faq__box ul li:nth-child(2) span {
+    background: url(../img/tab2.png) no-repeat left center; }
+  .faq__box ul li:nth-child(3) span {
+    background: url(../img/tab3.png) no-repeat left center; }
+  .faq__box ul li:nth-child(4) span {
+    background: url(../img/tab4.png) no-repeat left center; }
+  .faq__box ul li:nth-child(5) {
+    background: url(../img/tab5.png) no-repeat left center; }
+  .faq__box_tab h3 {
+    font-family: "Lato-Heavy";
+    font-size: 16px;
+    color: #404040;
+    padding-bottom: 24px;
+    text-transform: uppercase; }
+  .faq__box_tab p {
+    font-family: "MyriadPro-Regular";
+    font-size: 17px;
+    color: #404040;
+    padding-bottom: 10px; }
+    .faq__box_tab p b {
+      font-style: italic; }
+  .faq__box_left {
+    padding-bottom: 25px; }
+
+.active_tab {
+  color: red; }
+
 /*# sourceMappingURL=style.css.map */
