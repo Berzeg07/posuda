@@ -166,9 +166,9 @@
 		<div class="busket_table__kolvo">
 			<span class="busket_table__caption">Количество</span>
 			<div class="switch__number">
-				<span class="switch-button">+</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
 			</div>
 		</div>
 		<div class="busket_table__sort">
@@ -219,9 +219,9 @@
 		<div class="busket_table__kolvo">
 			<span class="busket_table__caption">Количество</span>
 			<div class="switch__number">
-				<span class="switch-button">+</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
 			</div>
 		</div>
 		<div class="busket_table__sort">
@@ -272,9 +272,9 @@
 		<div class="busket_table__kolvo">
 			<span class="busket_table__caption">Количество</span>
 			<div class="switch__number">
-				<span class="switch-button">+</span>
-				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 				<span class="switch-button">-</span>
+				<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+				<span class="switch-button">+</span>
 			</div>
 		</div>
 		<div class="busket_table__sort">

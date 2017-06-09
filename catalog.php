@@ -204,9 +204,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -227,9 +227,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -250,9 +250,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -273,9 +273,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -296,9 +296,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -319,9 +319,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -342,9 +342,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -365,9 +365,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -388,9 +388,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -411,9 +411,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -434,9 +434,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -457,9 +457,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -480,9 +480,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -503,9 +503,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -526,9 +526,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	
@@ -556,9 +556,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -579,9 +579,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -602,9 +602,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -625,9 +625,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -648,9 +648,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -671,9 +671,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -694,9 +694,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -717,9 +717,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -740,9 +740,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -763,9 +763,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -786,9 +786,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -809,9 +809,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -832,9 +832,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -855,9 +855,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	<div class="cart">
@@ -878,9 +878,9 @@
 			<div class="clear"></div>
 		</div>
 		<div class="switch__number text-align__center">
-			<span class="switch-button">+</span>
-			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
 			<span class="switch-button">-</span>
+			<input class="price_area" type="text" value="1" disabled="disabled" id="quantity">  
+			<span class="switch-button">+</span>
 		</div>
 	</div>
 	
