@@ -543,12 +543,12 @@
 			<img src="img/posuda.jpg" alt="">
 		</div>
 		<div class="cart__txt">
-			<span>Артикул: 99154</span>
+			<span>Артикул: 199154</span>
 			<p>Туалетная бумага МЯГКИЙ ЗНАК 2-сл ДЕЛЮКС БЕЛАЯ 4 рулона в упаковке 24 в коробке</p>
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >55.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>
@@ -571,7 +571,7 @@
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >50.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>
@@ -594,7 +594,7 @@
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >50.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>
@@ -617,7 +617,7 @@
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >50.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>
@@ -640,7 +640,7 @@
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >50.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>
@@ -663,7 +663,7 @@
 		</div>
 		<div class="cart__but">
 			<div class="cart__but_1">
-				<span >50.4</span>
+				<span >100</span>
 			</div>
 			<div class="cart__but_2">
 				<a class="but but_2" href="#">Купить</a>

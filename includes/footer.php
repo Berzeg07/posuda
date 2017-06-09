@@ -35,9 +35,9 @@
 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 no-padding">
 				<div class="footer-box footer-box__middle">
 					<div class="footer-box__middle_item">
-						<img class="img-responsive" src="img/logof.jpg" alt="">
+						<img class="img-responsive" src="img/logo.png" alt="">
 					</div>
-					<div class="footer-box__middle_item">
+					<div class="footer-box__middle_item footer-box__middle_item2">
 						<p>Copyright © Webrazavr.ru <br/> 
 							2017. All rights reserved.
 						</p>

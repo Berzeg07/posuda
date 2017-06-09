@@ -42,7 +42,7 @@
 	<div class="container">
 		<div class="header-bottom">
 			<div class="header-bottom__box">
-				<img src="img/logo.jpg" alt="">
+				<img src="img/logo.png" alt="">
 			</div>
 			<div class="header-bottom__box">
 				<p>Расходные материалы, упаковочная продукция, одноразовая посуда, хозяйственные товары, полиэтиленовые 

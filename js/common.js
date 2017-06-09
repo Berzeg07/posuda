@@ -42,12 +42,12 @@ $(document).ready(function(){
         nav:true, 
         autoplay:false,
         smartSpeed:1000,
-        margin:10,
+        margin:5,
         center:false,     //если нужны обрезаные края
         navText:['<span class="nav-left"></span>','<span class="nav-right"></span>'],
         responsive:{
             0:{
-                items:3
+                items:2
             },
             320:{
                 items:3
