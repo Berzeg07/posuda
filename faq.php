@@ -1,13 +1,8 @@
 <?php require_once('includes/header.php'); ?>
-
-<div class="faq-wrap">
-	<img class="img-responsive" src="img/faq.jpg" alt="">
-</div>
-
-</div>
-
-
 <div class="container">
+	<div class="faq-wrap">
+		<img class="img-responsive" src="img/faq.jpg" alt="">
+	</div>
 	<div class="row">
 
 		<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
@@ -67,21 +62,21 @@
 						Возможен с нашего склада: г.Москва, 3-й Угрешский проезд, д.6, стр.1 
 						Склад работает с 9:00 до 17:00<br/>
 						<b>Заранее придупреждайте менеджеров о своем приезде! Уточняйте по наличию товара на складе!!!
-						Въезд на территорию платный, 50руб!!!</b>
-					</p>
-				</div>
+							Въезд на территорию платный, 50руб!!!</b>
+						</p>
+					</div>
 
 
-			</div><!-- faq__box -->
+				</div><!-- faq__box -->
 
-		</div><!-- col-md -->
-		<div class="clearfix"></div>
+			</div><!-- col-md -->
+			<div class="clearfix"></div>
 
+		</div>
 	</div>
-</div>
 
 
 
 
 
-<?php require_once('includes/footer.php'); ?>
+	<?php require_once('includes/footer.php'); ?>

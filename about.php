@@ -1,13 +1,8 @@
 <?php require_once('includes/header.php'); ?>
-
-<div class="faq-wrap">
-	<img class="img-responsive" src="img/us.jpg" alt="">
-</div>
-
-</div>
-
-
 <div class="container">
+	<div class="faq-wrap">
+		<img class="img-responsive" src="img/us.jpg" alt="">
+	</div>
 
 	<div class="about-company__inner">
 
@@ -39,7 +34,7 @@
 				- Бытовая и профессиональная химия 
 			</li>
 		</ul>
-		
+
 
 		<p>
 			Почему работают с нами? <br/>

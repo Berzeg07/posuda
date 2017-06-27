@@ -1,153 +1,152 @@
 <?php require_once('includes/header.php'); ?>
+<div class="container">
+	<div class="header-slider">
+		<span class="header-title">На  природе <br/>вкуснее!</span><br/>
+		<span class="header-slogan">
+			товары для пикника<br/>
+			оптом от производителя
+		</span>
 
-<div class="header-slider">
-	<span class="header-title">На  природе <br/>вкуснее!</span><br/>
-	<span class="header-slogan">
-		товары для пикника<br/>
-		оптом от производителя
-	</span>
+		<div class="slider-wrap">
+			<div class="slider-container">
+				<div id="slider__actual">
 
-	<div class="slider-wrap">
-		<div class="slider-container">
-			<div id="slider__actual">
-
-				<div class="item">
-					<div class="item-box item-box__1">
-						<a class="item-box_1" href="#">
-							<div class="item-box-img item-box-img1">
-								<!-- <img src="img/p1.png" alt=""> -->
-							</div>
-							<p>
-								Хозяйственные товары
-							</p>
-						</a>
+					<div class="item">
+						<div class="item-box item-box__1">
+							<a class="item-box_1" href="#">
+								<div class="item-box-img item-box-img1">
+									<!-- <img src="img/p1.png" alt=""> -->
+								</div>
+								<p>
+									Хозяйственные товары
+								</p>
+							</a>
+						</div>
 					</div>
+
+					<div class="item">
+						<div class="item-box item-box__2">
+							<a href="#">
+								<div class="item-box-img item-box-img2">
+									<!-- <img src="img/p2-1.png" alt=""> -->
+								</div>
+								<p>
+									Бумажно-гигиеническая продукция
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__3">
+							<a href="#">
+								<div class="item-box-img item-box-img3">
+									<!-- <img src="img/p3.png" alt=""> -->
+								</div>
+								<p>
+									Бумажная продукция
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__4">
+							<a href="#">
+								<div class="item-box-img item-box-img4">
+									<!-- <img src="img/p4.png" alt=""> -->
+								</div>
+								<p>
+									Профессиональная химия
+								</p>
+							</a>
+						</div>
+					</div>
+
+					<div class="item">
+						<div class="item-box item-box__5">
+							<a href="#">
+								<div class="item-box-img item-box-img5">
+									<!-- <img src="img/p5.png" alt=""> -->
+								</div>
+								<p>
+									Бумага и чековая лента
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__6">
+							<a href="#">
+								<div class="item-box-img item-box-img6">
+									<!-- <img src="img/p6.png" alt=""> -->
+								</div>
+								<p>
+									Пленка упаковочная
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__7">
+							<a href="#"> 
+								<div class="item-box-img item-box-img7">
+									<!-- <img src="img/p7.png" alt=""> -->
+								</div>
+								<p>
+									Одноразовая посуда
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__8">
+							<a href="#">
+								<div class="item-box-img item-box-img8">
+									<!-- <img src="img/p8.png" alt=""> -->
+								</div>
+								<p>
+									Пакеты
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__9">
+							<a href="#">
+								<div class="item-box-img item-box-img9">
+									<!-- <img src="img/p9.png" alt=""> -->
+								</div>
+								<p>
+									Одноразовая упаковка
+								</p>
+							</a>
+						</div>
+					</div>	
+
+					<div class="item">
+						<div class="item-box item-box__10">
+							<a href="#">
+								<div class="item-box-img item-box-img10">
+									<!-- <img src="img/p10.png" alt=""> -->
+								</div>
+								<p>
+									Бытовая химия
+								</p>
+							</a>
+						</div>
+					</div>								
+
 				</div>
-
-				<div class="item">
-					<div class="item-box item-box__2">
-						<a href="#">
-							<div class="item-box-img item-box-img2">
-								<!-- <img src="img/p2-1.png" alt=""> -->
-							</div>
-							<p>
-								Бумажно-гигиеническая продукция
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__3">
-						<a href="#">
-							<div class="item-box-img item-box-img3">
-								<!-- <img src="img/p3.png" alt=""> -->
-							</div>
-							<p>
-								Бумажная продукция
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__4">
-						<a href="#">
-							<div class="item-box-img item-box-img4">
-								<!-- <img src="img/p4.png" alt=""> -->
-							</div>
-							<p>
-								Профессиональная химия
-							</p>
-						</a>
-					</div>
-				</div>
-
-				<div class="item">
-					<div class="item-box item-box__5">
-						<a href="#">
-							<div class="item-box-img item-box-img5">
-								<!-- <img src="img/p5.png" alt=""> -->
-							</div>
-							<p>
-								Бумага и чековая лента
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__6">
-						<a href="#">
-							<div class="item-box-img item-box-img6">
-								<!-- <img src="img/p6.png" alt=""> -->
-							</div>
-							<p>
-								Пленка упаковочная
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__7">
-						<a href="#"> 
-							<div class="item-box-img item-box-img7">
-								<!-- <img src="img/p7.png" alt=""> -->
-							</div>
-							<p>
-								Одноразовая посуда
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__8">
-						<a href="#">
-							<div class="item-box-img item-box-img8">
-								<!-- <img src="img/p8.png" alt=""> -->
-							</div>
-							<p>
-								Пакеты
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__9">
-						<a href="#">
-							<div class="item-box-img item-box-img9">
-								<!-- <img src="img/p9.png" alt=""> -->
-							</div>
-							<p>
-								Одноразовая упаковка
-							</p>
-						</a>
-					</div>
-				</div>	
-
-				<div class="item">
-					<div class="item-box item-box__10">
-						<a href="#">
-							<div class="item-box-img item-box-img10">
-								<!-- <img src="img/p10.png" alt=""> -->
-							</div>
-							<p>
-								Бытовая химия
-							</p>
-						</a>
-					</div>
-				</div>								
-
 			</div>
+			<div class="slider-line"></div>
 		</div>
-		<div class="slider-line"></div>
+
 	</div>
-
-</div>
-
 </div>
 
 <div class="about-company__wrap">
