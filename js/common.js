@@ -29,7 +29,7 @@ $(document).ready(function(){
 
     $(".switch__number .switch-button").on("click", function() {
       var button = $(this);
-      var oldValue = button.parent().find("input").val();
+      var oldValue = button.parent().find(".price_area").val();
       if (button.text() == "+") {
          var newVal = parseFloat(oldValue) + 1;
      }
@@ -40,7 +40,7 @@ $(document).ready(function(){
             newVal = 1;
         }
     }
-    button.parent().find("input").attr('value', newVal);
+    button.parent().find(".price_area").attr('value', newVal);
 });
 
 	// Мобильное меню 
