@@ -40,7 +40,7 @@ $(document).ready(function(){
             newVal = 1;
         }
     }
-    button.parent().find("input").val(newVal);
+    button.parent().find("input").attr('value', newVal);
 });
 
 	// Мобильное меню 
